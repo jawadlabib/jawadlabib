@@ -14,9 +14,9 @@
 - **Soft Skills:** Problem-solving, Collaboration, Creative Thinking  
 
 ## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?jawadlabib=jawadlabib&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jawadlabib&show_icons=true&theme=radical)  
 
 ---
 
 💡 **Let's build the future of education together!**  
-📫 Reach me at: [jawadlabib.17@gmail.com]
+📫 Reach me at: [jawadlabib17@gmail.com]
